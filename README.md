@@ -24,3 +24,8 @@ Requirements:
 Install `chlorophyll` using:
 
 `> pip3 install chlorophyll`
+CREDITS: 
+1. dhanoosu - https://github.com/dhanoosu/TkTerm
+2. rdbende - https://gitlab.com/rdbende/chlorophyll (github one is deprecated)
+
+There is not much here right now but adding more content soon!
