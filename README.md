@@ -1,5 +1,5 @@
 # code_editor_python - A Code Editor For Python.
-## NOTICE: THIS IS NOT A LIBRARY. ONLY A PROJECT. 
+
 ### See below for the features! 👇
 <ol>
   <li>
@@ -7,7 +7,7 @@
       Syntax Highlighting
   </li>
   <li>
-    Custom terminal (like VSCode!)
+    Custom terminal 
   </li>
   <li>
       File management
